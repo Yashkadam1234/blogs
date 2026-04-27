@@ -5,6 +5,7 @@
 
 A modern blog platform built using Next.js with authentication, AI features, and database integration.
 
+Demo lin :(https://blogs-dusky-nine.vercel.app)
 ---
 
 ## 🚀 Tech Stack Used
