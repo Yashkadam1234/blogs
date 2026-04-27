@@ -1,8 +1,4 @@
-Here’s a **professional, assignment-ready README.md** tailored exactly to your requirements 👇
 
----
-
-## ✅ FINAL README.md (Submission Ready)
 
 ````md
 # NexBlog – AI Powered Blogging Platform
