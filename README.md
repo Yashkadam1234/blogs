@@ -6,6 +6,9 @@
 A modern blog platform built using Next.js with authentication, AI features, and database integration.
 
 Demo link :(https://blogs-dusky-nine.vercel.app)
+admin:
+mail = kadamyash966@gmail.com
+pass = yashkadam
 ---
 
 ## 🚀 Tech Stack Used
